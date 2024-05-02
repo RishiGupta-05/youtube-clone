@@ -9,8 +9,16 @@
 .left-section{
     background-color: lightblue;
     width: 150px;
+    align-items: center;
+    display: flex;
 }
 
+.left-section img{}
+
+.hamburger-menu{
+    height: 20px;
+    
+}
 
 .middle-section{
     background-color: lightpink;
